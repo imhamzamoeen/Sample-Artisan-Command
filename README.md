@@ -1,0 +1,1 @@
+Laravel's Artisan command-line interface is a powerful tool that allows developers to perform repetitive tasks, manage the application, and automate various aspects of their projects. This sample project illustrates how to create a custom Artisan command that can be used to extend the functionality of your Laravel application.
